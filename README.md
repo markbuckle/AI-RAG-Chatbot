@@ -1,6 +1,6 @@
 <h1>AiDocChatBot</h1>
 
-<p align="center"><img src="https://github.com/markbuckle/AiDocChatBot/blob/main/Githubimg1.png" alt="AiChatbotImg1" /></p>
+<p align="center"><img src="https://github.com/markbuckle/AI-RAG-Chatbot/blob/main/Githubimg1.png" alt="AiChatbotImg1" /></p>
 
 [Flowise AI](https://flowiseai.com/) is an open source low-code tool for developers to build LLM apps easily. It provides a user-friendly and aesthetic visual builder. Under the hood it is predominately [Langchain](https://www.langchain.com/). Langchain is a framework with libraries to build with LLMs.
 
